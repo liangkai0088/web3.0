@@ -1,0 +1,10 @@
+{"level":"INFO","ts":"2025-08-02T23:13:46.543+0800","caller":"runtime/proc.go:283","msg":"项目配置初始化成功"}
+{"level":"INFO","ts":"2025-08-02T23:13:46.543+0800","caller":"runtime/proc.go:283","msg":"项目日志初始化成功"}
+{"level":"INFO","ts":"2025-08-02T23:15:04.256+0800","caller":"runtime/proc.go:283","msg":"项目配置初始化成功"}
+{"level":"INFO","ts":"2025-08-02T23:15:04.257+0800","caller":"runtime/proc.go:283","msg":"项目日志初始化成功"}
+{"level":"INFO","ts":"2025-08-02T23:15:26.731+0800","caller":"runtime/proc.go:283","msg":"项目配置初始化成功"}
+{"level":"INFO","ts":"2025-08-02T23:15:26.734+0800","caller":"runtime/proc.go:283","msg":"项目日志初始化成功"}
+{"level":"INFO","ts":"2025-08-02T23:15:27.063+0800","caller":"runtime/proc.go:283","msg":"项目数据库连接初始化成功"}
+{"level":"INFO","ts":"2025-08-02T23:15:27.064+0800","caller":"runtime/proc.go:283","msg":"项目路由初始化成功"}
+{"level":"INFO","ts":"2025-08-02T23:15:50.370+0800","caller":"gin@v1.10.1/context.go:185","msg":"HTTP Request","method":"GET","path":"/","status":404,"latency":0.000000208}
+{"level":"INFO","ts":"2025-08-02T23:15:51.187+0800","caller":"gin@v1.10.1/context.go:185","msg":"HTTP Request","method":"GET","path":"/favicon.ico","status":404,"latency":0.000000224}
