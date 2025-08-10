@@ -1,0 +1,20 @@
+Name: task4-api
+Host: 0.0.0.0
+Port: 8888
+Log:
+  Path: ./logs/app.log
+  Level: info
+  MaxSize: 128
+  MaxBackups: 30
+  MaxAge: 7
+  Compress: true
+Mysql:
+  Host: 127.0.0.1
+  Port: 3306
+  User: root
+  Password: root1234
+  Database: gormtest
+  Timeout: 5000
+Auth:
+  JwtSecret: JmOB9LwvhNkvm9C1LjISZtmrb1mRfFwA
+  TokenExpiry: 86400

@@ -1,0 +1,15 @@
+Name: task4-api
+Host: 0.0.0.0
+Port: 8888
+Log:
+  Mode: file
+  Path: ./logs
+  Level: info
+  Compress: true
+  KeepDays: 7
+Mysql:
+  DataSource: root:root1234@tcp(127.0.0.1:3306)/gormtest?charset=utf8mb4&parseTime=true&loc=Asia%2FShanghai
+Auth:
+  JwtSecret: JmOB9LwvhNkvm9C1LjISZtmrb1mRfFwA
+  TokenExpiry: 86400
+

@@ -1,0 +1,2 @@
+{"@timestamp":"2025-08-10T11:22:56.700+08:00","caller":"handler/loghandler.go:147","content":"[HTTP] 404 - GET / - [::1]:59825 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36","duration":"0.1ms","level":"info","span":"8f3634973718a05d","trace":"f4ee0dd5bc06b27607ba8893670aeefc"}
+{"@timestamp":"2025-08-10T11:23:13.601+08:00","caller":"proc/shutdown.go:84","content":"Got signal 2, shutting down...","level":"info"}

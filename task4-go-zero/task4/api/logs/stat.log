@@ -1,0 +1,3 @@
+{"@timestamp":"2025-08-10T11:22:47.198+08:00","caller":"stat/usage.go:61","content":"CPU: 0m, MEMORY: Alloc=1.6Mi, TotalAlloc=1.6Mi, Sys=12.5Mi, NumGC=0","level":"stat"}
+{"@timestamp":"2025-08-10T11:22:47.429+08:00","caller":"load/sheddingstat.go:61","content":"(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0","level":"stat"}
+{"@timestamp":"2025-08-10T11:23:14.602+08:00","caller":"stat/metrics.go:210","content":"(task4-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms","level":"stat"}
